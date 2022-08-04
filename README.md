@@ -12,6 +12,7 @@ Deployment link:
 https://slingshort.github.io/first-week-challenge/
 
 Images attached:
-/assets/Screen Shot 2022-08-04 at 3.37.05 pm.png
 
-/assets/Screen Shot 2022-08-04 at 3.37.17 pm.png
+![Example1](./assets/Example1.png)
+
+![Example2](./assets/Example2.png)
