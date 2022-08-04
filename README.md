@@ -8,3 +8,9 @@ Things that were resolved:
 - CSS style sheet was trimmed down and organied in a better flow
 - HTML was re-formatted to read more intuitively and semantically
 
+Deployment link:
+https://slingshort.github.io/first-week-challenge/
+
+Images attached:
+/Users/smyat/Desktop/bootcamp/first-week-challenge/assets/Screen Shot 2022-08-04 at 3.37.05 pm.png
+/Users/smyat/Desktop/bootcamp/first-week-challenge/assets/Screen Shot 2022-08-04 at 3.37.17 pm.png
