@@ -6,5 +6,5 @@ The purpose of this task was to update a website to have a codbase that follows 
 Things that were resolved:
 - asset tags were added to images
 - CSS style sheet was trimmed down and organied in a better flow
-- HTML was re-formatted to read more intuitively and neatly
+- HTML was re-formatted to read more intuitively and semantically
 
